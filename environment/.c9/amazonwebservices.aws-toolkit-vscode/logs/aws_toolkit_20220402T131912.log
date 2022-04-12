@@ -1,0 +1,11 @@
+2022-04-02 13:19:12 [ERROR]: log level: info
+2022-04-02 13:19:13 [INFO]: Retrieving AWS endpoint data
+2022-04-02 13:19:13 [INFO]: OS:  Linux x64 4.14.268-139.500.amzn1.x86_64
+2022-04-02 13:19:13 [INFO]: AWS Cloud9 Extension Host Version:  1.46.1
+2022-04-02 13:19:13 [INFO]: AWS Toolkit Version:  1.37.0
+2022-04-02 13:19:13 [INFO]: telemetry cache not found: '/home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/telemetryCache'
+2022-04-02 13:24:14 [INFO]: telemetry: sent batch (size=2)
+2022-04-02 13:35:36 [INFO]: autoconnect: trying "profile:default"
+2022-04-02 13:35:36 [INFO]: autoconnect: connected: 'profile:default'
+2022-04-02 13:39:14 [INFO]: telemetry: sent batch (size=4)
+2022-04-02 14:39:14 [INFO]: telemetry: sent batch (size=2)

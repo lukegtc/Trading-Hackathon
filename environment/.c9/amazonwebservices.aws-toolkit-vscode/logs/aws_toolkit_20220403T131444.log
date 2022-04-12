@@ -1,0 +1,7 @@
+2022-04-03 13:14:44 [ERROR]: log level: info
+2022-04-03 13:14:46 [INFO]: Retrieving AWS endpoint data
+2022-04-03 13:14:46 [INFO]: OS:  Linux x64 4.14.268-139.500.amzn1.x86_64
+2022-04-03 13:14:46 [INFO]: AWS Cloud9 Extension Host Version:  1.46.1
+2022-04-03 13:14:46 [INFO]: AWS Toolkit Version:  1.37.0
+2022-04-03 13:15:23 [INFO]: autoconnect: connected: 'profile:default'
+2022-04-03 13:19:46 [INFO]: telemetry: sent batch (size=8)
